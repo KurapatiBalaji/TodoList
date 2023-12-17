@@ -22,8 +22,6 @@ Make sure you have Node.js and npm installed on your machine.
 - Reactstrap- React components for Bootstrap.
 - JSONPlaceholder-Fake online REST API for testing and prototyping.
 
-## Author
-[Gowtham Chandu]
 
 
 
